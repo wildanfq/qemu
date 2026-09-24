@@ -1,0 +1,1 @@
+Eksperimen **bare-metal RISC-V** dengan **Assembly, C, dan Zig** yang berjalan langsung di **QEMU `virt` tanpa sistem operasi atau libc**, menggunakan linker script dan akses **UART melalui MMIO**. Setiap program dikompilasi menjadi ELF RISC-V dan dijalankan langsung oleh CPU virtual untuk mempelajari dasar startup, stack, memory layout, dan interaksi langsung dengan hardware.
